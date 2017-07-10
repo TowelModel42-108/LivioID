@@ -1,3 +1,7 @@
+*{
+  text-align: center !important;
+}
+
 @font-face {
   font-family: "DTM-Sans";
   src: url(DTM-Sans.otf);
@@ -11,7 +15,6 @@ body {
   font-family: "DTM-Sans";
   background-color: black;
   color: white
-  align: center;
 }
 
 #myHeadshot {
@@ -26,7 +29,7 @@ body {
 }
 #contact {
   font-family: "DTM-Mono";
-  margin:0px !important;
+  margin:auto !important;
   padding-bottom:10px;
 }
 
