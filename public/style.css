@@ -17,6 +17,10 @@ body {
   color: white
 }
 
+.fa-twitter {
+  color: white;
+}
+
 #myHeadshot {
   border-radius: 50%;
   	width: 200px;
